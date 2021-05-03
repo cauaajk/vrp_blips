@@ -1,3 +1,3 @@
-# gdl-marker-master
+# vrp_blips
 
-o script consiste em você criar blips por ele 
+Funcional para onesync infinity
